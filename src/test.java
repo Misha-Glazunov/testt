@@ -3,7 +3,7 @@ public class test {
         int y;
         boolean x;
         if (x = false) {
-            String t = "Выберите другое имя пользователся";
+            String t = "Нужно выбрать другое имя для пользователя";
             return t;
         }
         else
